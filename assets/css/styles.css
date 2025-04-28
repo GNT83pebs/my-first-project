@@ -1,0 +1,16 @@
+body{
+    background-color:lightgrey;
+    background-image: url("../assets/images/background-img.jpg");
+}
+
+h2 {
+    color: orangered;
+}
+
+p {
+    text-transform: bold;
+}
+
+.text-center {
+    text-align: center;
+}
